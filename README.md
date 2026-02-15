@@ -1,4 +1,4 @@
-# Mundiz_IT15_ENROLLMENT_SYSTEM
+# DEMELINO_IT15_ENROLLMENT_SYSTEM
 
 An enrollment system built with Laravel for managing students, courses, and enrollments.
 
